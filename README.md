@@ -48,4 +48,4 @@ LexiContract is a high-performance AI tool designed to analyze legal contracts (
 The project includes an `eval.py` script that uses the **RAGAS** framework to evaluate faithfulness and answer relevancy of the AI analysis.
 
 ---
-Built with ❤️ for Legal-Tech Innovation.
+Built with ❤️ by Ifrah.
